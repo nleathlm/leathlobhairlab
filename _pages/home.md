@@ -62,6 +62,6 @@ We are currently building up our instruments right in the center of Munich, in t
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Trinity-Main-Logo.jpg" style="width: 160px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Trinity-Main-Logo.jpg" style="width: 150px">
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px"> -->
 </figure>
