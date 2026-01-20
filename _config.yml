@@ -10,8 +10,8 @@ title: The Ní Leathlobhair Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Ní Leathlobhair Lab.
-baseurl: ""
-url: ""
+baseurl: "/leathlobhairlab"
+url: "https://nleathlm.github.io"
 
 include:
   - .htaccess
