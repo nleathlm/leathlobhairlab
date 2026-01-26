@@ -1,13 +1,12 @@
 - name: Máire Ní Leathlobhair
   photo: Milan1.jpg
-  info: Professor
-  email: milan.allan@gmail.com
+  info: PI
+  email: nleathlm@tcd.ie
   number_educ: 4
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD University of Cambridge with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc University of Oxford
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  education1: Master Applied Mathematics, University of Cambridge
+  education2: PhD at University of Cambridge with <a href="https://www.tcg.vet.cam.ac.uk/">Elizabeth Murchison</a> 
+  education3: Junior Research Fellow at University of Oxford with with <a href="https://wedge-group.netlify.app/">David Wedge</a> and <a href="https://bsbludwig.com/">Benjamin Schuster-Böckler</a>
+  #education5: 
 
 - name: Amy Ó Brolcháin
   photo: Sato.jpeg
