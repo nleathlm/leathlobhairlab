@@ -10,10 +10,6 @@ We are a multidisciplinary research group based at Trinity College Dublin intere
 
 Much of our research has centred on cancer, where genome evolution occurs on accelerated timescales and plays a central role in tumour initiation, progression, and resistance to therapy. We study cancer as an evolutionary process, asking how genomes adapt, diversify, and acquire new functions, and how these dynamics differ across tumour types, patients, and treatment contexts.
 
-Our vision is that by developing a quantitative, mechanistic understanding of genome evolution in cancer we can identify general principles that inform more rational strategies for diagnosis, prognosis, and therapy. To achieve this, we combine three key elements: large-scale omics datasets, computational and statistical models grounded in evolutionary theory, and increasingly, experimental and wet-lab approaches to test predictions and dissect mechanisms.
-
-While cancer provides a powerful system in which to study rapid genome evolution, we are also interested in how these same processes play out more broadly across development, ageing, and across the tree of life.
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -49,8 +45,11 @@ While cancer provides a powerful system in which to study rapid genome evolution
   </a>
 </div>
 
-**We are always keen to have for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://nleathlm.github.io/leathlobhairlab/vacancies) **!**
+Our vision is that by developing a quantitative, mechanistic understanding of genome evolution in cancer we can identify general principles that inform more rational strategies for diagnosis, prognosis, and therapy. To achieve this, we combine three key elements: large-scale omics datasets, computational and statistical models grounded in evolutionary theory, and increasingly, experimental and wet-lab approaches to test predictions and dissect mechanisms.
 
+While cancer provides a powerful system in which to study rapid genome evolution, we are also interested in how these same processes play out more broadly across development, ageing, and across the tree of life.
+
+**We are always keen to have for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://nleathlm.github.io/leathlobhairlab/vacancies) **!**
 
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Trinity-Main-Logo.jpg" style="width: 200px">
