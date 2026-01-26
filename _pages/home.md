@@ -6,11 +6,13 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group based at the [Smurfit Institute of Genetics](https://www.tcd.ie/Genetics/) in Trinity College Dublin. 
+We are a multidisciplinary research group based at Trinity College Dublin interested in how genomes change over time and in developing new approaches to study evolutionary patterns and processes. Our work focuses on understanding genome evolution at the level of large-scale variation, particularly copy number change, and how these processes influence health and disease.
 
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+Much of our research has centred on cancer, where genome evolution occurs on accelerated timescales and plays a central role in tumour initiation, progression, and resistance to therapy. We study cancer as an evolutionary process, asking how genomes adapt, diversify, and acquire new functions, and how these dynamics differ across tumour types, patients, and treatment contexts.
+
+Our vision is that by developing a quantitative, mechanistic understanding of genome evolution in cancer we can identify general principles that inform more rational strategies for diagnosis, prognosis, and therapy. To achieve this, we combine three key elements: large-scale omics datasets, computational and statistical models grounded in evolutionary theory, and increasingly, experimental and wet-lab approaches to test predictions and dissect mechanisms.
+
+While cancer provides a powerful system in which to study rapid genome evolution, we are also interested in how these same processes play out more broadly across development, ageing, and across the tree of life.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -55,10 +57,7 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
   </a>
 </div>
 
-
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
-
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+**We are always keen to have for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://nleathlm.github.io/leathlobhairlab/vacancies) **!**
 
 
 <figure class="fifth">
