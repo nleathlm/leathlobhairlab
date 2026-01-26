@@ -54,6 +54,6 @@ While cancer provides a powerful system in which to study rapid genome evolution
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Trinity-Main-Logo.jpg" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/TSJCI_Logo_Full Colour.jpg" style="width: 200px"> 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/research_ireland.jpg" style="width: 200px"> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/research-ireland-black.png" style="width: 200px"> 
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px"> -->
 </figure>
