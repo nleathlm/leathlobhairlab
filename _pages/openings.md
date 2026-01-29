@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-We are always looking for talendted new group members.
+We are always looking for talented new group members.
 
 <!-- ### Past open positions
 
@@ -20,6 +20,10 @@ You find the past job openings here:
 ### Applications for Postdoc positions
 
 We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many countries, there are also fellowships available for outdoing postdocs.**
+
+[Government of Ireland Postdoctoral Fellowship Programme](https://www.researchireland.ie/funding/government-ireland-postdoctoral/). Applicant deadline usually in **late October**.
+
+[Marie Skłodowska Curie Actions (MSCA) Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 
 ### Applications for PhD positions
 If you are interested in joining the group as a PhD student, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or any transcripts. 
