@@ -2,41 +2,41 @@
   photo: Milan1.jpg
   info: PI
   email: nleathlm@tcd.ie
-  number_educ: 4
-  education1: Master Applied Mathematics, University of Cambridge
-  education2: PhD at University of Cambridge with <a href="https://www.tcg.vet.cam.ac.uk/">Elizabeth Murchison</a> 
-  education3: Junior Research Fellow at University of Oxford with with <a href="https://wedge-group.netlify.app/">David Wedge</a> and <a href="https://bsbludwig.com/">Benjamin Schuster-Böckler</a>
+  number_educ: 2
+  education1: PhD with <a href="https://www.tcg.vet.cam.ac.uk/">Elizabeth Murchison</a> , University of Cambridge 
+  education2: Junior Research Fellow at University of Oxford with with <a href="https://wedge-group.netlify.app/">David Wedge</a> and <a href="https://bsbludwig.com/">Benjamin Schuster-Böckler</a>
   #education5: 
 
 - name: Amy Ó Brolcháin
   photo: Sato.jpeg
   info: PhD, started September 2023
   email: jwlee0421@postech.ac.kr
-  number_educ: 1
-  education1: Master with 
+  number_educ: 2
+  education1: BSc in Science, University of Galway
+  education1: MSc in Biomedical Genomics, University of Galway
 
 - name: Evie Smyth
   photo: Yanda.png
   info: PhD, since March 2025
   email: 
-  number_educ: 2
-  education1: BSc, Andhra University
+  number_educ: 1
+  education1: BSc in Personalized Medicine, Ulster University
 
 - name: Jorge García González
   photo: Yuval.png
   info: PhD, since 
   email: 
   number_educ: 2
-  education1: PhD Technion with [Amit Kanigel](https://phsites.technion.ac.il/arpes/)
-  education2: MSc Technion
+  education1: BSc in Veterinary Science, University of Santiago de Compostela 
+  education2: MSc in Omics Data Analysis, University of Vic - Central University of Catalonia
 
 - name: Bin Zhao
   photo: Sanghun.jpg
-  info: PhD Student
+  info: PhD Student, since
   email: 
   number_educ: 2
-  education1: Master Yonsei with [Doohee Cho](http://physicsyonsei.kr/en/people/professor?idx=48)
-  education2: BSc, Yonsei University
+  education1: BSc in Biology, South China Agricultural University 
+  education2: MSc in Bioinformatics,  University of Edinburgh
 
 - name: "This could be you !"
   photo: rock.jpg
