@@ -8,35 +8,42 @@
   #education5: 
 
 - name: Amy Ó Brolcháin
-  photo: Sato.jpeg
-  info: PhD, started September 2023
+  photo: AOB.jpeg
+  info: PhD, since January 2023
   email: jwlee0421@postech.ac.kr
   number_educ: 2
   education1: BSc in Science, University of Galway
-  education1: MSc in Biomedical Genomics, University of Galway
+  education2: MSc in Biomedical Genomics, University of Galway
 
 - name: Evie Smyth
-  photo: Yanda.png
-  info: PhD, since March 2025
+  photo: EMS.png
+  info: PhD, since September 2023
   email: 
   number_educ: 1
   education1: BSc in Personalized Medicine, Ulster University
 
 - name: Jorge García González
-  photo: Yuval.png
-  info: PhD, since 
+  photo: JGG.png
+  info: PhD, since March 2024
   email: 
   number_educ: 2
   education1: BSc in Veterinary Science, University of Santiago de Compostela 
   education2: MSc in Omics Data Analysis, University of Vic - Central University of Catalonia
 
 - name: Bin Zhao
-  photo: Sanghun.jpg
-  info: PhD Student, since
+  photo: BZ.jpg
+  info: PhD Student, since September 2024
   email: 
   number_educ: 2
   education1: BSc in Biology, South China Agricultural University 
   education2: MSc in Bioinformatics,  University of Edinburgh
+
+- name: Eithne Cunney
+  photo: EC.jpg
+  info: MSc Student, since September 2025
+  email: 
+  number_educ: 1
+  education1: BSc in Immunology, Trinity College Dublin
 
 - name: "This could be you !"
   photo: rock.jpg
