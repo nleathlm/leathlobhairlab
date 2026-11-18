@@ -3,7 +3,7 @@ title: "Ní Leathlobhair Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /vacancies/
 ---
 
 # Open positions
