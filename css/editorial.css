@@ -1,6 +1,4 @@
-/* Ní Leathlobhair Lab: primary-colour academic design — November 2026.
-   Loaded AFTER main.css. To roll back the design, restore the previous editorial.css
-   and original home/header/layout/footer files using Git history. */
+/* Ní Leathlobhair Lab: primary-colour design - November 2026.*/
 :root{--lab-red:#ec4939;--lab-blue:#2866c7;--lab-yellow:#f6c938;--lab-cream:#fff9eb;--lab-ink:#171717;--lab-muted:#535353;--lab-rule:#dfdedb}
 *{box-sizing:border-box}
 html{scroll-behavior:auto}
@@ -70,14 +68,13 @@ body>.container-fluid>.row{margin-left:-15px;margin-right:-15px}
 @media(max-width:880px){.lab-header-inner{flex-wrap:wrap}.lab-main-nav{gap:22px;flex-wrap:wrap}.lab-hero{grid-template-columns:1fr}.lab-hero-media,.lab-hero-media .carousel-inner>.item>img{height:370px;min-height:0}.lab-hero-intro{padding:38px 40px}.lab-home-lower{gap:38px}}
 @media(max-width:620px){body{font-size:16px}.lab-header-inner{padding:16px 0;gap:16px}.lab-brand{font-size:22px}.lab-brand img{width:40px;height:40px}.lab-main-nav{gap:16px;font-size:15px}.lab-hero{margin-top:12px}.lab-hero-media,.lab-hero-media .carousel-inner>.item>img{height:245px}.lab-hero-intro{padding:30px 26px}.lab-hero-intro h1{font-size:38px}.lab-home-lower{display:block;margin:42px auto 0}.lab-home-news{margin-top:38px}.lab-footer-inner{display:block}.lab-footer-inner span{display:block;margin-bottom:8px}#textid,#gridid,#picid{margin-top:26px}#textid h1,#gridid h1{font-size:32px}#textid h2,#gridid h2{font-size:24px}}
 
-/* Static metastatic melanoma microscopy image replaces the homepage carousel. */
+/* Static metastatic melanoma microscopy image */
 .lab-hero-melanoma { position:relative; }
 .lab-hero-melanoma > img { display:block; width:100%; height:100%; min-height:440px; object-fit:cover; object-position:center; max-width:none; }
 @media (max-width:880px) { .lab-hero-melanoma > img { height:370px; min-height:0; } }
 @media (max-width:620px) { .lab-hero-melanoma > img { height:245px; } }
 
-/* November 2026: focused homepage refinements. */
-/* Ensure the microscopy photograph covers its full panel without grey gutters. */
+/* Microscopy photograph covers full panel without grey gutters. */
 .lab-hero-media.lab-hero-melanoma {
   position: relative;
   padding: 0 !important;
@@ -102,7 +99,7 @@ body>.container-fluid>.row{margin-left:-15px;margin-right:-15px}
   object-fit: cover;
   object-position: center center;
 }
-/* News dates match article type: black, bold and full-size. */
+/* News dates match article type: black, bold, full-size. */
 .lab-home-news .lab-news-date {
   display: block;
   color: #171717;
@@ -110,7 +107,7 @@ body>.container-fluid>.row{margin-left:-15px;margin-right:-15px}
   line-height: 1.5;
   font-weight: 700;
 }
-/* Dark 'All news' link with a simple arrow. */
+/* Dark 'All news' link with simple arrow. */
 .lab-home-news a.lab-news-all,
 .lab-home-news a.lab-news-all:visited {
   color: #171717;
@@ -133,4 +130,18 @@ body>.container-fluid>.row{margin-left:-15px;margin-right:-15px}
   .lab-hero-media.lab-hero-melanoma { min-height: 245px; }
   .lab-home-news .lab-news-date,
   .lab-home-news a.lab-news-all { font-size: 16px; }
+}
+
+/* Keep all homepage News text black */
+.lab-home-news,
+.lab-home-news a,
+.lab-home-news a:visited,
+.lab-home-news a:hover,
+.lab-home-news a:focus {
+  color: #171717 !important;
+}
+
+/* Preserve black arrow link */
+.lab-home-news a.lab-news-all:hover {
+  text-decoration: underline;
 }
