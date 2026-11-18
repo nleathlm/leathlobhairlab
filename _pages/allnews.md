@@ -8,6 +8,11 @@ permalink: /allnews.html
 
 # News
 
+<div class="news-archive" markdown="0">
 {% for article in site.data.news %}
-<p>{{ article.date }} <br> {{ article.headline | markdownify}}</p>
+<div class="news-archive-entry">
+<strong>{{ article.date }}</strong>
+{{ article.headline | markdownify }}
+</div>
 {% endfor %}
+</div>
