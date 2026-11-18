@@ -59,12 +59,3 @@
   number_educ: 1
   education1: BSc in Pharmacology, University College Dublin
   education2: MS in Technologies & Analytics in Precision Medicine, Royal College of Surgeons Ireland (RCSI)
-
-- name: "This could be you !"
-  photo: bio-photo.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email:
-  number_educ: 0
-  education1:
-  education2:
-  education3:
