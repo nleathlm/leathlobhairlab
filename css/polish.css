@@ -1,0 +1,41 @@
+/* Ní Leathlobhair Lab — final layout refinements, 18 November 2026.
+   Loaded after editorial.css. Remove this link to undo all visual changes here. */
+
+/* Align the header and content within one slightly wider central column. */
+body > .container-fluid,
+.lab-header-inner {
+  width: 94%;
+  max-width: 1250px;
+}
+
+/* Make the microscope photo / cream panel more prominent on desktop. */
+@media (min-width: 881px) {
+  .lab-hero { min-height: 510px; }
+  .lab-hero-media.lab-hero-melanoma { min-height: 510px; }
+  .lab-hero-intro { padding: 58px 58px 50px; }
+  .lab-home-lower { max-width: 1100px; }
+}
+
+/* Slightly enlarge the existing genome badge, without changing the lab name. */
+.lab-brand img {
+  width: 54px;
+  height: 54px;
+}
+
+/* The footer rule belongs to the centered page, not the full browser width. */
+.lab-site-footer { border-top: 0 !important; }
+.lab-footer-inner {
+  width: 94%;
+  max-width: 1250px;
+  border-top: 1px solid var(--lab-rule, #dfdedb);
+}
+
+@media (max-width: 880px) {
+  .lab-brand img { width: 48px; height: 48px; }
+}
+@media (max-width: 620px) {
+  body > .container-fluid,
+  .lab-header-inner,
+  .lab-footer-inner { width: 92%; }
+  .lab-brand img { width: 43px; height: 43px; }
+}
