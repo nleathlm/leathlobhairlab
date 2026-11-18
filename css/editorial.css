@@ -69,3 +69,9 @@ body>.container-fluid>.row{margin-left:-15px;margin-right:-15px}
 .lab-footer-inner a{color:var(--lab-muted);text-decoration:underline}
 @media(max-width:880px){.lab-header-inner{flex-wrap:wrap}.lab-main-nav{gap:22px;flex-wrap:wrap}.lab-hero{grid-template-columns:1fr}.lab-hero-media,.lab-hero-media .carousel-inner>.item>img{height:370px;min-height:0}.lab-hero-intro{padding:38px 40px}.lab-home-lower{gap:38px}}
 @media(max-width:620px){body{font-size:16px}.lab-header-inner{padding:16px 0;gap:16px}.lab-brand{font-size:22px}.lab-brand img{width:40px;height:40px}.lab-main-nav{gap:16px;font-size:15px}.lab-hero{margin-top:12px}.lab-hero-media,.lab-hero-media .carousel-inner>.item>img{height:245px}.lab-hero-intro{padding:30px 26px}.lab-hero-intro h1{font-size:38px}.lab-home-lower{display:block;margin:42px auto 0}.lab-home-news{margin-top:38px}.lab-footer-inner{display:block}.lab-footer-inner span{display:block;margin-bottom:8px}#textid,#gridid,#picid{margin-top:26px}#textid h1,#gridid h1{font-size:32px}#textid h2,#gridid h2{font-size:24px}}
+
+/* Static metastatic melanoma microscopy image replaces the homepage carousel. */
+.lab-hero-melanoma { position:relative; }
+.lab-hero-melanoma > img { display:block; width:100%; height:100%; min-height:440px; object-fit:cover; object-position:center; max-width:none; }
+@media (max-width:880px) { .lab-hero-melanoma > img { height:370px; min-height:0; } }
+@media (max-width:620px) { .lab-hero-melanoma > img { height:245px; } }
