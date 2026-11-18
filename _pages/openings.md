@@ -26,7 +26,7 @@ We especially welcome postdocs with fellowships. I'd be happy to support you, al
 [Marie Skłodowska Curie Actions (MSCA) Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 
 ### Applications for PhD positions
-If you are interested in joining the group as a PhD student, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or any transcripts. 
+If you are interested in joining the group as a PhD student, please send me an [email](mailto:nleathlm@tcd.ie). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or any transcripts. 
 
 Below are some possible funding sources for interested PhD students:
 
