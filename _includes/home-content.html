@@ -23,7 +23,7 @@
     <aside class="lab-home-news">
       <h2>News</h2>
       {% for article in site.data.news limit:3 %}
-      <div class="lab-news-entry"><span class="lab-news-date">{{ article.date }}</span><div>{{ article.headline | markdownify }}</div></div>
+      <div class="lab-news-entry"><span class="lab-news-date">{{ article.date }}</span><div>{{ article.headline | markdownify | remove: '<p>' | remove: '</p>' }}
       {% endfor %}
       <a class="lab-news-all" href="{{ '/allnews.html' | relative_url }}">All news</a>
     </aside>
