@@ -1,7 +1,7 @@
 # Homepage image credits
 
-**Metastatic melanoma cells** — National Cancer Institute (NCI), via [Unsplash](https://unsplash.com/photos/a-close-up-of-a-cell-phone-case-sIqWYiNLiJU).
+**Human metaphase chromosomes** — Hesed Padilla-Nash and Thomas Ried, National Institutes of Health. Cell Image Library, [CIL:228](https://www.cellimagelibrary.org/images/228), doi:10.7295/W9CIL228.
 
-Fluorescence microscopy showing podosomes (yellow), cell nuclei (blue), actin (red), and an actin regulator (green). Published on Unsplash 11 December 2019. Free to use under the [Unsplash License](https://unsplash.com/license).
+Fluorescence microscopy of a human metaphase spread showing the 46 chromosomes (blue), with telomeres labelled by PNA-FISH (pale dots at the chromatid ends). Public domain; credited here as a courtesy, as the Cell Image Library requests.
 
-The homepage currently references the image from Unsplash's image server rather than storing a copy of the photograph in this repository. Image credit is also linked here for future maintenance. Original image URL: `https://images.unsplash.com/photo-1576086639808-ddfd21aa668c`.
+Stored in this repository as `images/metaphase-chromosomes.jpg` (original 900 × 958 px).
