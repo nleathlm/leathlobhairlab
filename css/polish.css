@@ -39,3 +39,29 @@ body > .container-fluid,
   .lab-footer-inner { width: 92%; }
   .lab-brand img { width: 43px; height: 43px; }
 }
+
+/* ---- Colour refresh, November 2026 ---------------------------------- */
+
+/* Dark intro panel continues the microscopy image's black background,
+   replacing the cream panel that clashed with the image. */
+.lab-hero-intro { background: #090607; }
+.lab-hero-intro h1,
+.lab-hero-intro strong { color: #fff; }
+.lab-hero-intro p { color: #c9c9c9; }
+
+/* One accent colour throughout: the blue from the genome badge.
+   (--lab-red is the variable the site uses for its accent.) */
+:root { --lab-red: #2866c7; }
+.lab-home-news { border-left-color: var(--lab-blue); }
+#textid blockquote { border-left-color: var(--lab-blue); }
+a:hover, a:focus { color: var(--lab-ink); }
+
+/* News: let the headlines lead and keep dates quiet. */
+.lab-home-news .lab-news-date {
+  color: #6b6b6b;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: .01em;
+  margin-bottom: 2px;
+}
+.lab-news-entry p { color: #171717; font-size: 16px; }
