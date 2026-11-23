@@ -1,0 +1,20 @@
+{% if site.data.funders and site.data.funders.size > 0 %}
+<section class="lab-supported" aria-label="Research funding and support">
+  <h2>Supported by</h2>
+  <div class="lab-supported-logos">
+    {% for funder in site.data.funders %}
+      {% if funder.logo and funder.logo != '' %}
+        {% if funder.url and funder.url != '' %}
+        <a href="{{ funder.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ funder.name | escape }}">
+          <img src="{{ funder.logo | relative_url }}" alt="{{ funder.name | escape }}" loading="lazy">
+        </a>
+        {% else %}
+        <span class="lab-supported-logo">
+          <img src="{{ funder.logo | relative_url }}" alt="{{ funder.name | escape }}" loading="lazy">
+        </span>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
