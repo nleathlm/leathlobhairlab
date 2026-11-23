@@ -9,7 +9,8 @@
       <a href="{{ '/research/' | relative_url }}" {% if page.url == '/research/' %}aria-current="page"{% endif %}>Research</a>
       <a href="{{ '/team/' | relative_url }}" {% if page.url == '/team/' %}aria-current="page"{% endif %}>People</a>
       <a href="{{ '/publications/' | relative_url }}" {% if page.url == '/publications/' %}aria-current="page"{% endif %}>Publications</a>
-      <a href="{{ '/vacancies/' | relative_url }}" {% if page.url == '/vacancies/' %}aria-current="page"{% endif %}>Join</a>
+      <a href="{{ '/vacancies/' | relative_url }}" {% if page.url == '/vacancies/' or page.url == '/vacancies' %}aria-current="page"{% endif %}>Join</a>
+      <a href="{{ '/contact/' | relative_url }}" {% if page.url == '/contact/' %}aria-current="page"{% endif %}>Contact</a>
     </nav>
   </div>
 </header>
