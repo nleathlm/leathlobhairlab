@@ -13,4 +13,9 @@
   logo: "/images/logopic/hrb_logo.jpg"
 
 - name: "Trinity College Dublin"
+  url: "https://www.tcd.ie/"
   logo: "/images/logopic/Trinity-Main-Logo.jpg"
+
+- name: "Trinity St James' Cancer Institute"
+  url: "https://www.stjames.ie/cancer/aboutus/"
+  logo: "/images/logopic/TSJCI_Logo_Full Colour.jpg"
