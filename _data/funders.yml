@@ -3,4 +3,11 @@
 # - name: "Funder name"
 #   url: "https://www.example.org/"
 #   logo: "/images/funders/funder-logo.png"
-[]
+
+- name: "Research Ireland"
+  #url: "https://www.example.org/"
+  logo: "/images/logopic/research-ireland-black.png"
+
+- name: "Health Research Board"
+  url: "https://www.example.org/"
+  logo: "/images/logopic/hrb_logo.png"
