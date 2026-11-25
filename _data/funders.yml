@@ -9,5 +9,5 @@
   logo: "/images/logopic/research-ireland-black.png"
 
 - name: "Health Research Board"
-  url: "https://www.example.org/"
+  #url: "https://www.example.org/"
   logo: "/images/logopic/hrb_logo.png"
