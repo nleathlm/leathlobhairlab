@@ -5,9 +5,12 @@
 #   logo: "/images/funders/funder-logo.png"
 
 - name: "Research Ireland"
-  #url: "https://www.example.org/"
+  url: "https://www.researchireland.ie/"
   logo: "/images/logopic/research-ireland-black.png"
 
 - name: "Health Research Board"
-  #url: "https://www.example.org/"
+  url: "https://www.hrb.ie/"
   logo: "/images/logopic/hrb_logo.jpg"
+
+- name: "Trinity College Dublin"
+  logo: "/images/logopic/Trinity-Main-Logo.jpg"
